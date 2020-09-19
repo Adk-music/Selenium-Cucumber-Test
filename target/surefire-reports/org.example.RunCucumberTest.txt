@@ -1,9 +1,0 @@
--------------------------------------------------------------------------------
-Test set: org.example.RunCucumberTest
--------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.847 sec <<< FAILURE!
-Sunday isn't Friday(Is it Friday yet? Everybody wants to know when it's Friday)  Time elapsed: 0.149 sec  <<< ERROR!
-io.cucumber.java.PendingException: TODO: implement me
-	at org.example.Stepdefs.today_is_sunday(Stepdefs.java:13)
-	at ✽.today is Sunday(classpath:org/example/is_it_friday_yet.feature:5)
-
